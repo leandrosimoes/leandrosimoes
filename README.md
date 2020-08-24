@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Leandro Simões and I'm a Software Engineer @simplificaci, a code lover! See more at https://lesimoes.dev 👨‍💻🖖👨‍🍳🎨🥁🍕🕹
+
 <!--
 **leandrosimoes/leandrosimoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
