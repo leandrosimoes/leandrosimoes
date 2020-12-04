@@ -5,3 +5,5 @@
 <a href="https://lesimoes.dev"><img src="https://github-readme-stats.vercel.app/api?username=leandrosimoes&theme=dracula" width="100%" /></a>
 
 <a href="https://lesimoes.dev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrosimoes&theme=dracula" width="100%" /></a>
+
+<a href="https://lesimoes.dev"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=12145006662&cover_image=true&theme=novatorem" width="100%" /></a>
