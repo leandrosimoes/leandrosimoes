@@ -7,3 +7,5 @@
 <a href="https://lesimoes.dev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrosimoes&theme=dracula" width="100%" /></a>
 
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=12145006662&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=12145006662&cover_image=true&theme=novatorem" width="100%" /></a>
+
+<img src="https://lesimoes.dev/assets/images/qr-code.png" width="30%" />
